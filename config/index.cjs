@@ -8,22 +8,22 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx9fc227ab7bde69d8',
+  APP_ID: 'wx6b02e4ef465e8a6a',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'adda6fc4afae4e07ee3a544023357158',
+  APP_SECRET: 'bd5050a0f6240efc7bd91198954faf2e',
 
-  PROVINCE: '贵州',
-  CITY: '贵阳',
+  PROVINCE: '陕西',
+  CITY: '西安',
   
   USERS: [
     //顾凯
     {
       // 想要发送的人的名字
-      name: '罗荣荣',
+      name: '小邓乖',
       
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oguWs5zQnYzDd8dazSof4Mm6K1Ac',//妹
+      id: 'o44iR6lqw5_fBsV1sOrK7dkcqKf8',//乖
       //id: 'oguWs5811jyNHIcSlXiJ-COe2eg8',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'OJ0DPJqk3YIsSNMXRKdKUYvtp2qbCCUo9E0K-DsbPH0',
